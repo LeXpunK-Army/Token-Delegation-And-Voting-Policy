@@ -16,7 +16,7 @@ In our role as a stakeholder, we are committed to advancing the overarching goal
 
 **SCOPE OF POLICIES AND PROCEDURES**  
 
-This Policy, as amended from time to time, shall apply to (i) our delegation of governance tokens (the “Delegated Tokens”) representing [**[>X/X]% of the voting power**] of [**list protocols**] (the “Protocol[s]”) to [  ] (the “Delegate[s]”) and (ii) our policies and procedures with respect to any Tokens we may choose to vote directly from time to time.  
+This Policy, as amended from time to time, shall apply to (i) our delegation of governance tokens (the “Delegated Tokens”) representing [**[>X/X]%, [>X/X]%, [>X/X]% of the voting power**] of [**list protocols**] (the “Protocol[s]”), respectively to [  ] (the “Delegate[s]”) and (ii) our policies and procedures with respect to any Tokens we may choose to vote directly from time to time.  
 
 In addition, this Policy will control how our Delegates vote Delegated Tokens on our behalf. Except as outlined below, we will not provide advice to our Delegates on how to vote and there exists no other limiter on the specific delegation of authority for our Delegates, whether by contractual agreement or otherwise.  
 
@@ -34,11 +34,11 @@ We have engaged the Delegate(s) and may engage additional delegates to vote Dele
 
    2. Participating in forums for governance-related discussion and facilitating the sharing of research and discussions related to governance votes; 
 
-   3. Vote Delegated Tokens in accordance with this Policy;  
+   3. Voting Delegated Tokens in accordance with this Policy;  
 
-   4. Handle any administrative and reporting items necessary or desirable in connection with their role as a Delegate;  
+   4. Handling any administrative and reporting items necessary or desirable in connection with their role as a Delegate;  
 
-   5. Maintain records of such research and their governance activities and provide copies/analyses to us upon request; and 
+   5. Maintaining records of such research and their governance activities and provide copies/analyses to us upon request; and 
 
    6. **[Disclose any other responsibilities].** 
 
